@@ -1,0 +1,195 @@
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y}
+\hline
+ &  &  \\\hline
+ & None & None \\\hline
+None &  & None \\\hline
+ &  &  \\\hline
+None &  & None \\\hline
+None &  & None \\\hline
+None &  & None \\\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+可变光阑 \\\hline
+起偏器 \\\hline
+ \\\hline
+毛玻璃 \\\hline
+电光晶体 \\\hline
+检偏器 \\\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y | Y | Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+ \\\hline
+可变光阑 \\\hline
+偏振片 \\\hline
+电光晶体 \\\hline
+4波片 \\\hline
+偏振片 \\\hline
+探测器 \\\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y | Y | Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+调制电信号 \\\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+起偏器 \\\hline
+永磁铁 \\\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|}
+\hline
+检偏器 \\\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
+\begin{table}[!h]
+ \caption{}
+ \label{}
+\begin{tabularx}{\textwidth}{|X|Y | Y | Y}
+\hline
+\end{tabularx}
+\end{table}
+
+
